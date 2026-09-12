@@ -89,7 +89,7 @@ public class BestPattern {
           }
 
           // 0-1 switch right angle triangle pattern
-
+       
           
     }
 }
