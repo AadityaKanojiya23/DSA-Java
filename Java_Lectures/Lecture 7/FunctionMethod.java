@@ -1,6 +1,6 @@
 /*
   retureType functionName(type arg1 , type arg2...){
-    //operation
+    //operation 
   } 
 */ 
 import java.util.*;
