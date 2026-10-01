@@ -1,7 +1,7 @@
 /*
   retureType functionName(type arg1 , type arg2...){
     //operation
-  }
+  } 
 */ 
 import java.util.*;
 // Print a given name in a function 
