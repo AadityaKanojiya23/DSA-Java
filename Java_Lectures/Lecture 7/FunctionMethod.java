@@ -5,7 +5,7 @@
 */ 
 import java.util.*; 
 // Print a given name in a function 
-
+ 
 public class FunctionMethod{
 
       // public static void printMyName(String name){
