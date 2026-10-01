@@ -3,7 +3,7 @@
     //operation 
   } 
 */ 
-import java.util.*;
+import java.util.*; 
 // Print a given name in a function 
 
 public class FunctionMethod{
